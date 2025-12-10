@@ -15,4 +15,7 @@ myMap.set("city3","bengaluru");
 // console.log(mem);
 // }
 let a = 40;
-let c400;
+let c = 80;
+let name = "Rishabh Shukla";
+let arrFunc = ()=> 2 + 2;
+console.log(arrFunc ());
