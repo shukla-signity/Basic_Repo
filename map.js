@@ -14,3 +14,6 @@ myMap.set("city3","bengaluru");
 // for (let mem of arr){
 // console.log(mem);
 // }
+let a = 40;
+
+
