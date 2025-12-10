@@ -15,5 +15,4 @@ myMap.set("city3","bengaluru");
 // console.log(mem);
 // }
 let a = 40;
-
-
+let c400;
